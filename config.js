@@ -65,20 +65,14 @@ const CONFIG = {
     {
       id: "4",
       name: "Reddit",
-      icon: "bookmark",
+      icon: "arrow-up",
       link: "https://reddit.com",
     },
     {
       id: "5",
-      name: "YouTube",
-      icon: "youtube",
-      link: "https://youtube.com/",
-    },
-    {
-      id: "6",
       name: "Facebook",
       icon: "facebook",
-      link: "https://faceboom.com/",
+      link: "https://facebook.com/",
     },
   ],
 
@@ -87,27 +81,19 @@ const CONFIG = {
   // ┴─┘┴└─┘ ┴ └─┘
 
   //Icons
-  firstListIcon: "music",
+  firstListIcon: "list",
   secondListIcon: "coffee",
 
   // Links
   lists: {
     firstList: [
       {
-        name: "Inspirational",
-        link: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+        name: "IT Dusters CompuCleaner Xpert Dust Blower - 69 eur",
+        link: "https://www.amazon.de/-/en/Dusters-CompuCleaner-Xpert-Dust-Blower/dp/B01G1Z0RF0/ref=sr_1_15?crid=NT8102H03P1S&dchild=1&keywords=staubgebl%C3%A4se+elektrisch&qid=1635597376&sprefix=electric+dust+blower%2Caps%2C80&sr=8-15",
       },
       {
-        name: "Classic",
-        link: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-      },
-      {
-        name: "Oldies",
-        link: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-      },
-      {
-        name: "Rock",
-        link: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+        name: "Monitor arm - 42.99 eur",
+        link: "https://www.amazon.de/-/en/gp/product/B082B6FBYK/ref=ox_sc_act_title_1?smid=AEG7IHGI4BFG3&psc=1",
       },
     ],
     secondList: [
@@ -119,14 +105,14 @@ const CONFIG = {
         name: "Figma",
         link: "https://figma.com/",
       },
-      {
+      /*       {
         name: "Dribbble",
         link: "https://dribbble.com",
       },
       {
         name: "Telegram",
         link: "https://webk.telegram.org",
-      },
+      }, */
     ],
   },
 };
